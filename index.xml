@@ -6,8 +6,18 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Mar 2017 16:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 00:44:12 +0000</lastBuildDate>
     <atom:link href="https://gizmux.github.io/tryhugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>another post</title>
+      <link>https://gizmux.github.io/tryhugo/post/another-post/</link>
+      <pubDate>Thu, 23 Mar 2017 00:44:12 +0000</pubDate>
+      
+      <guid>https://gizmux.github.io/tryhugo/post/another-post/</guid>
+      <description>&lt;p&gt;TESTING AGAIN&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>trying this out</title>
