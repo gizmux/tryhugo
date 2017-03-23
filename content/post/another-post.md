@@ -10,3 +10,4 @@ title = "another post"
 _dfsgdfg
 dfgdfgdffd
 dgdfgfdg_
+![testing]({{site.baseurl}}/content/post/media-20170211.jpg)
