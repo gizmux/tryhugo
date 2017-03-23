@@ -1,3 +1,3 @@
+baseURL = "https://gizmux.github.io/tryhugo/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-baseURL = "https://gizmux.github.io/tryhugo/"
