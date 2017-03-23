@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/index.xml</link>
+    <link>https://gizmux.github.io/tryhugo/post/index.xml</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Mar 2017 16:01:01 +0000</lastBuildDate>
-    <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gizmux.github.io/tryhugo/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>trying this out</title>
-      <link>http://example.org/post/trying-this-out/</link>
+      <link>https://gizmux.github.io/tryhugo/post/trying-this-out/</link>
       <pubDate>Wed, 22 Mar 2017 16:01:01 +0000</pubDate>
       
-      <guid>http://example.org/post/trying-this-out/</guid>
+      <guid>https://gizmux.github.io/tryhugo/post/trying-this-out/</guid>
       <description>
 
 &lt;h1 id=&#34;testing-hugo&#34;&gt;Testing HUGO&lt;/h1&gt;
