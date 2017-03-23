@@ -1,6 +1,5 @@
 +++
 date = "2017-03-23T00:46:38Z"
-draft = true
 title = "yet another post"
 
 +++
