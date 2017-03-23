@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gizmux.github.io/tryhugo/post/yet-another-post/</loc>
+    <lastmod>2017-03-23T00:46:38+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gizmux.github.io/tryhugo/post/another-post/</loc>
     <lastmod>2017-03-23T00:44:12+00:00</lastmod>
   </url>
@@ -13,13 +18,13 @@
   
   <url>
     <loc>https://gizmux.github.io/tryhugo/</loc>
-    <lastmod>2017-03-23T00:44:12+00:00</lastmod>
+    <lastmod>2017-03-23T00:46:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gizmux.github.io/tryhugo/post/</loc>
-    <lastmod>2017-03-23T00:44:12+00:00</lastmod>
+    <lastmod>2017-03-23T00:46:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
